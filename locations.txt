@@ -1,0 +1,485 @@
+Cave of the three-eyed crow
+Craster's Keep
+Fist of the First Men
+Hardhome
+Ruddy Hall
+Wall
+Whitetree
+Antler River
+Bay of Ice
+Bay of Seals
+Bridge of Skulls
+Frostfangs
+Frozen Shore
+Giant's Stair
+Gorge
+Gorne's Way
+Haunted forest
+Land of Always Winter
+Lorn Point
+Milkwater
+Shivering Sea
+Skirling Pass
+Storrold's Point
+Sunset Sea
+Thenn
+Barrow Hall
+Barrowton
+Blackpool
+Breakstone Hill
+Castle Cerwyn
+Crofters' village
+Deepdown
+Deepwood Motte
+Dreadfort
+Driftwood Hall
+Flint's Finger
+Goldgrass
+Greywater Watch
+Highpoint
+Hornwood
+Ironrath
+Karhold
+Kingshouse
+Last Hearth
+Mormont Keep
+Moat Cailin
+New Castle
+Oldcastle
+Ramsgate
+Rillwater Crossing
+Torrhen's Square
+Tumbledown Tower
+White Harbor
+Widow's Watch
+Winter town
+Winterfell
+Wolf's Den
+Acorn Water
+Barrowlands
+Bay of Ice
+Bay of Seals
+Bear Island
+Bite
+Blazewater Bay
+Broken Branch
+Cape Kraken
+Causeway
+Fever River
+Flint Cliffs
+Frozen Ford
+Gift
+Great Barrow
+Grey Cliffs
+Hornwood
+Ironman's Bay
+Kingsroad
+Last River
+Lonely Hills
+Long Lake
+Neck
+Northern mountains
+Rills
+Saltspear
+Sea Dragon Point
+Sheepshead Hills
+Shivering Sea
+Skagos
+Skane
+Stony Shore
+Sunset Sea
+Weeping Water
+White Knife
+Wolfswood
+Blacktyde
+Great Wyk
+Harlaw
+Lonely Light
+Old Wyk
+Orkmont
+Pyke
+Saltcliffe
+Blacktyde Castle
+Crow Spike Keep
+Downdelving
+Grey Garden
+Grey King's Hall
+Hammerhorn
+Harridan Hill
+Harlaw Hall
+Hoare Castle
+Iron Holt
+Lordsport
+Pebbleton
+Pebbleton Tower
+Pyke
+Sealskin Point
+Shatterstone
+Ten Towers
+Tower of Glimmering
+Volmark
+Corpse Lake
+Hardstone Hills
+Ironman's Bay
+Nagga's Cradle
+Nagga's Hill
+Sunset Sea
+Acorn Hall
+Atranta
+Briarwhite
+Castlewood
+Crossed Elms
+Darry
+Donnelwood
+Fairmarket
+Fieldstone
+Gods Eye town
+Hag's Mire
+Harrenhal
+Harrentown
+Inn at the crossroads
+Inn of the Kneeling Man
+Lambswold
+Lord Harroway's Town
+Lychester
+Maidenpool
+Mousedown Mill
+Mudgrave
+Mummer's Ford
+Nutten
+Oldstones
+Peasedale
+Pennytree
+Pinkmaiden
+Ramsford
+Raventree Hall
+Riverbend
+Riverrun
+Rushing Falls
+Sallydance
+Saltpans
+Seagard
+Sevenstreams
+Sherrer
+Sludgy Pond
+Stone Hedge
+Stoney Sept
+Tumbler's Falls
+Twins
+Wayfarer's Rest
+Wendish Town
+Whitewalls
+Willow Wood
+Bay of Crabs
+Big Willow
+Bitter River
+Blackwater Rush
+Blackwood Vale
+Cape of Eagles
+Darry
+Duskendale road
+Gods Eye
+Gods Eye river
+Greenapple
+High Heart
+High road
+Hollow hill
+Ironman's Bay
+Isle of Faces
+Kingsroad
+Little Willow
+Longleaf
+Maiden
+Misty Isle
+Quiet Isle
+Red Deer Island
+Rippledown Rill
+River road
+Stone Mill
+Teats
+Threepenny Wood
+Trident 
+Blue Fork
+Green Fork
+Red Fork
+Ruby ford
+Tumblestone
+Whispering Wood
+White Wood
+Widow's Ford
+Widow's Wash
+Bloody Gate
+Breakwater
+Coldwater Burn
+Drearfort
+Eyrie
+Gates of the Moon
+Grey Glen
+Gull Tower
+Gulltown
+Heart's Home
+Ironoaks
+Longbow Hall
+Newkeep
+Ninestars
+Old Anchor
+Redfort
+Runestone
+Sisterton
+Snakewood
+Strongsong
+Wickenden
+Alyssa's Tears
+Bay of Crabs
+Bite
+Fingers
+Giant's Lance
+High Road
+Mountains of the Moon
+Paps
+Pebble
+Snakewood
+Three Sisters 
+Littlesister
+Longsister
+Sweetsister
+Vale proper
+Witch Isle
+Ashemark
+Banefort
+Castamere
+Casterly Rock
+Clegane's Keep
+Cornfield
+Crag
+Crakehall
+Deep Den
+Faircastle
+Feastfires
+Golden Tooth
+Greenfield
+Hornvale
+Kayce
+Lannisport
+Oxcross
+Riverspring
+Sarsfield
+Silverhill
+Tarbeck Hall
+Wyndhall
+Blackwater Rush
+Fair Isle
+Goldroad
+Ironman's Bay
+Lann's Point
+Nunn's Deep
+Ocean Road
+Pendric Hills
+Red Fork
+River Road
+Straits of Fair Isle
+Sunset Sea
+Tumblestone
+Antlers
+Brindlewood
+Brownhollow
+Dragonstone
+Driftmark
+Dun Fort
+Duskendale
+Dyre Den
+Hayford
+High Tide
+Hollard castle
+Hull
+King's Landing
+Middleton
+Old Stone Bridge
+Rook's Rest
+Rosby
+Sharp Point
+Sow's Horn
+Spicetown
+Stokeworth
+Stonedance
+Sweetport Sound
+Tally Hill
+Whispers
+Yore
+Bay of Crabs
+Blackwater Bay
+Blackwater Rush
+Claw Isle
+Crackclaw Point
+Dragonmont
+Dragonstone
+Driftmark
+Duskendale road
+Gods Eye river
+Goldroad
+Gullet
+Kingsroad
+Kingswood
+Massey's Hook
+Merling Rock
+Narrow sea
+Rosby road
+Roseroad
+Spears of the merling king
+Wendwater
+Appleton
+Ashford
+Bandallon
+Bitterbridge
+Blackcrown
+Brandybottom
+Brightwater Keep
+Cider Hall
+Citadel
+Cobble Cove
+Coldmoat
+Cuy
+Darkdell
+Dosk
+Dunstonbury
+Goldengrove
+Grassfield Keep
+Grassy Vale
+Grimston
+Hammerhal
+Highgarden
+Hightower
+Holyhall
+Honeyholt
+Horn Hill
+Ivy Hall
+Little Dosk
+Longtable
+Lord Hewett's Town
+New Barrel
+Nunny
+Old Oak
+Oldtown
+Risley Glade
+Red Lake· Ring
+Ryamsport
+Smithyton
+Standfast
+Starfish Harbor
+Starpike
+Sunhouse
+Three Towers
+Tumbleton
+Uplands
+Vinetown
+Whitegrove
+Arbor
+Bastard's Cradle
+Bloody Isle
+Blueburn
+Chequy Water
+Cockleswent
+Derring Downs
+Dornish Marches
+Goldroad
+Honeywine
+Horseshoe Hills
+Horseshoe Rock
+Isle of Pigs
+Leafy Lake
+Mander
+Mermaid's Palace
+Ocean Road
+Reach proper
+Red Mountains
+Redwyne Straits
+Roseroad
+Shield Islands 
+Greenshield
+Greyshield
+Oakenshield
+Southshield
+Stonecrab Cay
+Wat's Wood
+Whispering Sound
+Amberly
+Blackhaven
+Broad Arch
+Bronzegate
+Crow's Nest
+Evenfall Hall
+Fawnton
+Felwood
+Gallowsgrey
+Grandview
+Greenstone
+Griffin's Roost
+Harvest Hall
+Haystack Hall
+Mistwood
+Morne
+Nightsong
+Parchments
+Poddingfield
+Rain House
+Stonehelm
+Storm's End
+Summerhall
+Weeping Town
+Black Bog
+Boneway
+Cape Wrath
+Dornish Marches
+Durran's Point
+Estermont
+Howling Hill
+Kingsroad
+Kingswood
+Misty Wood
+Rainwood
+Red Mountains
+Red Watch
+Sea of Dorne
+Shipbreaker Bay
+Slayne
+Straits of Tarth
+Tarth
+Wendwater
+Blackmont
+Ghaston Grey
+Ghost Hill
+Godsgrace
+Hellgate Hall
+Hellholt
+High Hermitage
+Kingsgrave
+Lemonwood
+Planky Town
+Salt Shore
+Sandship
+Sandstone
+Shandystone
+Skyreach
+Spottswood
+Starfall
+Stinkwater
+Sunspear
+Tor
+Tower of joy
+Vaith
+Vulture's Roost
+Water Gardens
+Wyl
+Yronwood
+Boneway
+Brimstone
+Broken Arm
+Greenblood
+Prince's Pass
+Red Mountains
+Scourge
+Sea of Dorne
+Summer Sea
+Torentine
+Vaith
+Wyl
